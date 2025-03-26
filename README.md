@@ -28,4 +28,4 @@ Try modifying the code to experiment with the concepts!
 
 ## Array Methods Overview
 
-![Array Methods Visualization](./Overview.avif)
+![Functions Visualization](./Overview.avif)
