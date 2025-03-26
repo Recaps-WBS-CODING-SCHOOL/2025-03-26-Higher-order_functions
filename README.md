@@ -26,6 +26,6 @@ Try modifying the code to experiment with the concepts!
 - Array methods: `.map()`, `.filter()`, `.forEach()`, and more
 - Practical data transformation examples
 
-## Array Methods Overview
+## Functions Overview
 
 ![Functions Visualization](./Overview.avif)
