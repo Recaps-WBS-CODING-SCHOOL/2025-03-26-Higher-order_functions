@@ -5,7 +5,7 @@ Functions that take other functions as arguments or return functions as results.
 ## Contents
 
 - **[HOF.js](./HOF.js)** - Commented code examples with explanations
-- **[Overview.avif](./Overview.avif)** - Visual reference (displayed below)
+- **[Overview.jpeg](./Overview.jpeg)** - Visual reference (displayed below)
 - **[Recap Session Video](https://drive.google.com/file/d/17EuVzFofMNkKIocvagwhxQxWK9M6mKIf/view?usp=drive_link)** - Watch the lecture
 
 ## Running the Examples
@@ -28,4 +28,4 @@ Try modifying the code to experiment with the concepts!
 
 ## Functions Overview
 
-![Functions Visualization](./Overview.webp)
+![Functions Visualization](./Overview.jpeg)
