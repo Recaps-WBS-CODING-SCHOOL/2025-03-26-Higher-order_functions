@@ -28,4 +28,4 @@ Try modifying the code to experiment with the concepts!
 
 ## Functions Overview
 
-![Functions Visualization](./Overview.avif)
+![Functions Visualization](./Overview.webp)
